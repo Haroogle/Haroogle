@@ -2,7 +2,7 @@
 
 ---
 
-* 🔭 I’m currently working on My Portfolio (using HTML and CSS) 
+* 🔭 I’m currently working on a to-do list app
 
 * 🌱 I’m currently learning Typescript
 
