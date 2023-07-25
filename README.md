@@ -8,7 +8,7 @@
 
 * 📫 How to reach me: HAnwari951@Outlook.com
 
-* My portfolio: <a href="https://haroogle.github.io/portfolio/" target="_blank">Portfoilio</a>
+* My portfolio: [Portfolio](external.ink?to=https://haroogle.github.io/portfolio/)
 
 ## Connect with me: 
 [![LInkedin Badge](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdartagnanguedes.com.br%2Fimg%2Fif_linkedin.png&f=1&nofb=1&ipt=07b430621b07c060ed43957f82ff795d898c38940fb38994dc051d42306fa3e5&ipo=images)](https://www.linkedin.com/in/harounanwari)
